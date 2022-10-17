@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CarGalery/static/css/main.ab4725ec.css",
+    "main.js": "/CarGalery/static/js/main.624da09d.js",
+    "static/media/exterior-11.png": "/CarGalery/static/media/exterior-11.3b05dd7a26fd23fde25c.png",
+    "static/media/exterior-12.png": "/CarGalery/static/media/exterior-12.cbc605bed8275eced607.png",
+    "static/media/exterior-13.png": "/CarGalery/static/media/exterior-13.7a5741c41f971b30265a.png",
+    "static/media/exterior-7.png": "/CarGalery/static/media/exterior-7.99dffaf8bef4f297dec2.png",
+    "static/media/exterior-9.png": "/CarGalery/static/media/exterior-9.2f506d93ceab5649062c.png",
+    "static/media/exterior-6.png": "/CarGalery/static/media/exterior-6.d5040bd613e66b8fc972.png",
+    "static/media/exterior-10.png": "/CarGalery/static/media/exterior-10.912852a93c4da8913f0d.png",
+    "static/media/exterior-5.png": "/CarGalery/static/media/exterior-5.bf458157dd62d237fef9.png",
+    "static/media/exterior-14.png": "/CarGalery/static/media/exterior-14.eaaad3945d17843441ec.png",
+    "static/media/exterior-8.png": "/CarGalery/static/media/exterior-8.a473b99000b4700c5910.png",
+    "static/media/exterior-4.png": "/CarGalery/static/media/exterior-4.1ca275dfd295cb53ff41.png",
+    "static/media/logo.webp": "/CarGalery/static/media/logo.5dafb12d5b08fac0e10b.webp",
+    "index.html": "/CarGalery/index.html",
+    "main.ab4725ec.css.map": "/CarGalery/static/css/main.ab4725ec.css.map",
+    "main.624da09d.js.map": "/CarGalery/static/js/main.624da09d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab4725ec.css",
+    "static/js/main.624da09d.js"
+  ]
+}
